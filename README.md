@@ -8,10 +8,10 @@ My previous experience with websites, social media, and online campaigns has giv
 
 ## 🔧 What I'm Working On
 
-🔭 I’m currently building a custom **beauty e-commerce shop** – focusing on PHP, backend logic & third-party integrations.
+🔭 I’m currently building a custom **beauty e-commerce shop**, focusing on PHP, backend logic & third-party integrations.
 🌱 I’m learning more about **backend architecture**, API integrations, and clean code principles.
 
-⭐️ My goal? To create **scalable**, **user-friendly**, and **business-driven** web solutions that deliver real value – both for users and companies.
+⭐️ My goal? To create **scalable**, **user-friendly**, and **business-driven** web solutions that deliver real value for both users and companies.
 
 At the same time, I'm exploring topics like system architecture, security, and writing clean, maintainable code.
 
