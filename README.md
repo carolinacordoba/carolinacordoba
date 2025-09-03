@@ -1,6 +1,6 @@
 # 👋 Hey there, and welcome!
 
-I'm Carolina – a web development student with a background in digital marketing and a strong passion for e-commerce and tech.
+I'm Carolina, a web development student with a background in digital marketing and a strong passion for e-commerce and tech.
 
 ## 💡 About Me
 
