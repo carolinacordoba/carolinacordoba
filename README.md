@@ -15,11 +15,6 @@ My previous experience with websites, social media, and online campaigns has giv
 
 At the same time, I'm exploring topics like system architecture, security, and writing clean, maintainable code.
 
-## 🚀 Looking for Internship (LIA) – Fall 2025
-
-I'm currently looking for an internship (LIA) for **Fall 2025**!  
-If you're interested in working with a driven, learning-focused developer – feel free to reach out 🙌
-
 ## 📬 Let's Connect
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/carolina-cordoba-455ab9166/) or via [E-mail](mailto:carolina.cordoba@medieinstitutet.se)
