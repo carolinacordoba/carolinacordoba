@@ -9,7 +9,9 @@ My previous experience with websites, social media, and online campaigns has giv
 ## 🔧 What I'm Working On
 
 🔭 I'm currently working on **my portfolio**, using Next.js, React & tailwind to build a high functional site. 
+
 🔙 A previous project of mine was a custom **beauty e-commerce shop**. Where I focused on PHP, backend logic & third-party integrations.
+
 🌱 I’m learning more about **backend architecture**, API integrations, and clean code principles.
 
 ⭐️ My goal? To create **scalable**, **user-friendly**, and **business-driven** web solutions that deliver real value for both users and companies.
